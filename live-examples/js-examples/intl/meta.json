@@ -30,6 +30,18 @@
             "title": "JavaScript Demo: Intl.DateTimeFormat.prototype.format",
             "type": "js"
         },
+        "intlDateTimeFormatPrototypeFormatRange": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-datetimeformat-prototype-formatrange.html",
+            "fileName": "intl-datetimeformat-prototype-formatrange.html",
+            "title": "JavaScript Demo: Intl.DateTimeFormat.prototype.formatRange()",
+            "type": "js"
+        },
+        "intlDateTimeFormatPrototypeFormatRangeToParts": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-datetimeformat-prototype-formatrangetoparts.html",
+            "fileName": "intl-datetimeformat-prototype-formatrangetoparts.html",
+            "title": "JavaScript Demo: Intl.DateTimeFormat.prototype.formatRangeToParts()",
+            "type": "js"
+        },
         "intlDateTimeFormatPrototypeResolvedOptions": {
             "exampleCode": "./live-examples/js-examples/intl/intl-datetimeformat-prototype-resolvedoptions.html",
             "fileName": "intl-datetimeformat-prototype-resolvedoptions.html",
@@ -58,6 +70,30 @@
             "exampleCode": "./live-examples/js-examples/intl/intl-listformat.html",
             "fileName": "intl-listformat.html",
             "title": "JavaScript Demo: Intl.ListFormat",
+            "type": "js"
+        },
+        "intlLocale": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale.html",
+            "fileName": "intl-locale.html",
+            "title": "JavaScript Demo: Intl.Locale",
+            "type": "js"
+        },
+        "intlLocalePrototypeMaximize": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-maximize.html",
+            "fileName": "intl-locale-prototype-maximize.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.maximize()",
+            "type": "js"
+        },
+        "intlLocalePrototypeMinimize": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-minimize.html",
+            "fileName": "intl-locale-prototype-minimize.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.minimize()",
+            "type": "js"
+        },
+        "intlLocalePrototypeToString": {
+            "exampleCode": "./live-examples/js-examples/intl/intl-locale-prototype-tostring.html",
+            "fileName": "intl-locale-prototype-tostring.html",
+            "title": "JavaScript Demo: Intl.Locale.prototype.toString()",
             "type": "js"
         },
         "intlNumberFormatPrototypeFormat": {
